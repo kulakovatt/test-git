@@ -1,0 +1,11 @@
+D:\ОАиП лабы\test git\test git\bin\Debug\netcoreapp2.1\test git.deps.json
+D:\ОАиП лабы\test git\test git\bin\Debug\netcoreapp2.1\test git.runtimeconfig.json
+D:\ОАиП лабы\test git\test git\bin\Debug\netcoreapp2.1\test git.runtimeconfig.dev.json
+D:\ОАиП лабы\test git\test git\bin\Debug\netcoreapp2.1\test git.dll
+D:\ОАиП лабы\test git\test git\bin\Debug\netcoreapp2.1\test git.pdb
+D:\ОАиП лабы\test git\test git\obj\Debug\netcoreapp2.1\test git.csprojAssemblyReference.cache
+D:\ОАиП лабы\test git\test git\obj\Debug\netcoreapp2.1\test git.csproj.CoreCompileInputs.cache
+D:\ОАиП лабы\test git\test git\obj\Debug\netcoreapp2.1\test git.AssemblyInfoInputs.cache
+D:\ОАиП лабы\test git\test git\obj\Debug\netcoreapp2.1\test git.AssemblyInfo.cs
+D:\ОАиП лабы\test git\test git\obj\Debug\netcoreapp2.1\test git.dll
+D:\ОАиП лабы\test git\test git\obj\Debug\netcoreapp2.1\test git.pdb
